@@ -1,0 +1,20 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "Node.js application for CI/CD practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
